@@ -13,5 +13,5 @@ knowledge_base/
 # sensitive data
 data/
 
-# llamaindex json
+# llamaindex .json
 index.json
