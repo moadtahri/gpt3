@@ -1,0 +1,17 @@
+# ignore api keys
+open_api_key.txt
+
+# ignore ALL .log files
+*.log
+
+# ignore ALL files in ANY directory named temp
+temp/
+
+# knowledge folder
+knowledge_base/
+
+# sensitive data
+data/
+
+# llamaindex json
+index.json
